@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/japanese-drumkit/static/css/main.566a1b1d.css",
+    "main.css": "/japanese-drumkit/static/css/main.4c7ccc6a.css",
     "main.js": "/japanese-drumkit/static/js/main.a1c1e736.js",
     "index.html": "/japanese-drumkit/index.html",
-    "main.566a1b1d.css.map": "/japanese-drumkit/static/css/main.566a1b1d.css.map",
+    "main.4c7ccc6a.css.map": "/japanese-drumkit/static/css/main.4c7ccc6a.css.map",
     "main.a1c1e736.js.map": "/japanese-drumkit/static/js/main.a1c1e736.js.map"
   },
   "entrypoints": [
-    "static/css/main.566a1b1d.css",
+    "static/css/main.4c7ccc6a.css",
     "static/js/main.a1c1e736.js"
   ]
 }
