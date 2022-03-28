@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/japanese-drumkit/static/css/main.566a1b1d.css",
+    "main.js": "/japanese-drumkit/static/js/main.a1c1e736.js",
+    "index.html": "/japanese-drumkit/index.html",
+    "main.566a1b1d.css.map": "/japanese-drumkit/static/css/main.566a1b1d.css.map",
+    "main.a1c1e736.js.map": "/japanese-drumkit/static/js/main.a1c1e736.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.566a1b1d.css",
+    "static/js/main.a1c1e736.js"
+  ]
+}
